@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "736570486569",
+    "firebase_url": "https://loginpait-a73fe.firebaseio.com",
+    "project_id": "loginpait-a73fe",
+    "storage_bucket": "loginpait-a73fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736570486569:android:7caaeba195c90ce2",
+        "android_client_info": {
+          "package_name": "echedeygarcias.gmail.com.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736570486569-qv5ojpqc2iphcd2ljkh5o77tppb36hj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "echedeygarcias.gmail.com.login",
+            "certificate_hash": "29ebd9241c186113e370f81fb62937f8820e57c3"
+          }
+        },
+        {
+          "client_id": "736570486569-gbq24ekrnf2irkfoamghpga6bigqhl3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzbhaVo7hkqQxhR5x-QW4D1zO6aj-W5mc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736570486569-gbq24ekrnf2irkfoamghpga6bigqhl3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

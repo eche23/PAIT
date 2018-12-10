@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="hintUsername">Username</string>
+    <string name="hintPassword">Password</string>
+    <string name="hintRepeatPassword">Repeat Password</string>
+    <string name="labelLogin">Login</string>
+    <string name="labelRegister">Register</string>
+    <string name="textRegister">Register</string>
+    <string name="forgotPassword">Forgot Password?</string>
+</resources>
